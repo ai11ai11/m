@@ -2,7 +2,6 @@ local tick={a}
 
 function tick.set()
 	
-
 raz = 0
 izm = false
 
@@ -147,6 +146,8 @@ while raz~= 0 do
    end
    raz = raz - 1
 end
+
+
 
 for i = 3, 12 do
    for j = 3, 12 do

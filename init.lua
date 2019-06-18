@@ -1,7 +1,8 @@
 local init={}
 
 function init.set()
-	
+
+math.randomseed(os.time())	
 a = {}
 
 for i=1,12 do
